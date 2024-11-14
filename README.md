@@ -95,18 +95,24 @@ Using your favorite graphing software (e.g., MS Excel or Google Sheets), plot th
 vs. N for each case. Take a screenshot of your graph and put them here by modifying this file, committing, and pushing 
 it to this repository.
 
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
-![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted): <img width="500" alt="image" src="https://github.com/user-attachments/assets/3965165d-3082-4407-90ca-c96d7240a089">
 
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
 
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled): <img width="511" alt="image" src="https://github.com/user-attachments/assets/e2ef0dc5-9943-4105-9ebc-4aa032a6230c">
 
-Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
 
-Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed): <img width="523" alt="image" src="https://github.com/user-attachments/assets/ae509b24-e1f3-4bf1-b8b8-ef174f2c4fbf">
 
-Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
+
+Bubble Sort and Odd-Even Transposition Sort comparison (already sorted): <img width="595" alt="image" src="https://github.com/user-attachments/assets/fcfe81ac-d5a0-4994-a931-b7388be21220">
+
+
+
+Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):<img width="603" alt="image" src="https://github.com/user-attachments/assets/e7cb6485-e90c-4055-9d08-9310c82accb2">
+
+
+Bubble Sort and Odd-Even Transposition Sort comparison (reversed): <img width="605" alt="image" src="https://github.com/user-attachments/assets/a7756bbd-48c8-4cda-a1d4-63cf6d893d9e">
+
 
 ## Submission:
 
