@@ -153,14 +153,14 @@ public class Proj3 {
     // Bubble Sort
     public static <T extends Comparable> int bubbleSort(ArrayList<T> a, int size) {
         boolean swapped = false;
-        int numSwaps = 0;
+        int comparison = 0;
 
         for(int i = 0; i < size; i++) {
             swapped = false;
+            comparison++;
             for(int j = 0; j < size - 1 - i; j++) {
                 if(a.get(j).compareTo(a.get(j+1)) > 0) {
                     swap(a, j, j+1);
-                    numSwaps++;
                     swapped = true;
                 }
             }
@@ -170,7 +170,7 @@ public class Proj3 {
         }
 
 
-        return numSwaps;
+        return comparison;
 
 
     }
@@ -179,31 +179,31 @@ public class Proj3 {
     public static <T extends Comparable> int transpositionSort(ArrayList<T> a, int size) {
 
         boolean isSorted = false;
-        int numSwaps = 0;
+        int comparisons = 0;
 
         while(!isSorted) {
             isSorted = true;
 
             //Odd index sort
             for(int i = 1; i < size - 2; i+=2) {
+                comparisons++; //count tbe comparisons
                 if(a.get(i).compareTo(a.get(i+1)) > 0) {
                     swap(a, i, i+1);
-                    numSwaps++;
                     isSorted = false;
                 }
             }
 
             //Even index sort
             for (int i = 0; i < size-1; i+=2){
+                comparisons++; //count comparisons
                 if(a.get(i).compareTo(a.get(i+1)) > 0) {
                     swap(a, i, i+1);
-                    numSwaps++;
                     isSorted = false;
                 }
             }
         }
 
-        return numSwaps;
+        return comparisons;
     }
 
     public static void main(String [] args)  throws IOException {
@@ -341,9 +341,9 @@ public class Proj3 {
                 end = System.nanoTime();
                 outputLine = "Sorted BubbleSort of " + numLines+ " lines took " + (end - start) + "ns.";
                 System.out.println(outputLine);
-                System.out.println("Number of Swaps: " + swapNum);
+                System.out.println("Number of Comparisons: " + swapNum);
                 writeToFile(outputLine, "analysis.txt", true);
-                writeToFile("Number of Swaps : " + swapNum, "analysis.txt", true);
+                writeToFile("Number of Comparisons: " + swapNum, "analysis.txt", true);
                 sortedArr = arr;
 
                 //shuffled list
@@ -353,9 +353,9 @@ public class Proj3 {
                 end = System.nanoTime();
                 outputLine = "Shuffled BubbleSort of " + numLines+ " lines took " + (end - start) + "ns.";
                 System.out.println(outputLine);
-                System.out.println("Number of Swaps: " + swapNum);
+                System.out.println("Number of Comparisons: " + swapNum);
                 writeToFile(outputLine, "analysis.txt", true);
-                writeToFile("Number of Swaps : " + swapNum, "analysis.txt", true);
+                writeToFile("Number of Comparisons: " + swapNum, "analysis.txt", true);
                 shuffledArr = arr;
 
                 //reversed sorted list
@@ -365,9 +365,9 @@ public class Proj3 {
                 end = System.nanoTime();
                 outputLine = "Reversed Sorted BubbleSort of " + numLines+ " lines took " + (end - start) + "ns.";
                 System.out.println(outputLine);
-                System.out.println("Number of Swaps: " + swapNum);
+                System.out.println("Number of Comparisons: " + swapNum);
                 writeToFile(outputLine, "analysis.txt", true);
-                writeToFile("Number of Swaps : " + swapNum, "analysis.txt", true);
+                writeToFile("Number of Comparisons: " + swapNum, "analysis.txt", true);
                 reversesortedArr = arr;
 
                 //printing the lists into the sorted.txt file
@@ -426,9 +426,9 @@ public class Proj3 {
                 end = System.nanoTime();
                 outputLine = "Sorted Odd-EvenTranspositionSort of " + numLines+ " lines took " + (end - start) + "ns.";
                 System.out.println(outputLine);
-                System.out.println("Number of Swaps: " + swapNum);
+                System.out.println("Number of Comparisons: " + swapNum);
                 writeToFile(outputLine, "analysis.txt", true);
-                writeToFile("Number of Swaps : " + swapNum, "analysis.txt", true);
+                writeToFile("Number of Comparisons: " + swapNum, "analysis.txt", true);
                 sortedArr = arr;
 
                 //shuffled list
@@ -438,9 +438,9 @@ public class Proj3 {
                 end = System.nanoTime();
                 outputLine = "Shuffled Odd-EvenTranspositionSort of " + numLines+ " lines took " + (end - start) + "ns.";
                 System.out.println(outputLine);
-                System.out.println("Number of Swaps: " + swapNum);
+                System.out.println("Number of Comparisons: " + swapNum);
                 writeToFile(outputLine, "analysis.txt", true);
-                writeToFile("Number of Swaps : " + swapNum, "analysis.txt", true);
+                writeToFile("Number of Comparisons: " + swapNum, "analysis.txt", true);
                 shuffledArr = arr;
 
                 //reversed sorted list
@@ -450,9 +450,9 @@ public class Proj3 {
                 end = System.nanoTime();
                 outputLine = "Reversed Sorted Odd-EvenTranspositionSort of " + numLines+ " lines took " + (end - start) + "ns.";
                 System.out.println(outputLine);
-                System.out.println("Number of Swaps: " + swapNum);
+                System.out.println("Number of Comparisons: " + swapNum);
                 writeToFile(outputLine, "analysis.txt", true);
-                writeToFile("Number of Swaps : " + swapNum, "analysis.txt", true);
+                writeToFile("Number of Comparisons: " + swapNum, "analysis.txt", true);
                 reversesortedArr = arr;
 
                 //printing the lists into the sorted.txt file
