@@ -104,15 +104,13 @@ Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled): <img
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed): <img width="517" alt="image" src="https://github.com/user-attachments/assets/0bd4e02d-3c60-4791-be32-c3fc46651ff7">
 
 
-Bubble Sort and Odd-Even Transposition Sort comparison (already sorted): <img width="364" alt="image" src="https://github.com/user-attachments/assets/208cc2a8-0e1f-4f64-aa1c-60eb5489037e">
+Bubble Sort and Odd-Even Transposition Sort comparison (already sorted): <img width="446" alt="image" src="https://github.com/user-attachments/assets/a5071890-4d78-40f8-87db-5970fe528308">
 
 
-
-Bubble Sort and Odd-Even Transposition Sort comparison (shuffled): <img width="362" alt="image" src="https://github.com/user-attachments/assets/de39f2bb-da94-41cf-bc34-1ff4ca70fdfe">
-
+Bubble Sort and Odd-Even Transposition Sort comparison (shuffled): <img width="447" alt="image" src="https://github.com/user-attachments/assets/5f36b8f7-1f40-4cea-8afe-499c7c07fc8d">
 
 
-Bubble Sort and Odd-Even Transposition Sort comparison (reversed): <img width="362" alt="image" src="https://github.com/user-attachments/assets/b927bc1a-7979-481d-837f-a0fa8f2f496f">
+Bubble Sort and Odd-Even Transposition Sort comparison (reversed): <img width="453" alt="image" src="https://github.com/user-attachments/assets/77afedb3-38ac-4f6b-8dcd-f89619a0dc0d">
 
 
 
