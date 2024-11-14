@@ -1,210 +1,78 @@
-Sorted BubbleSort of 100 lines took 46708ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 100 lines took 442625ns.
-Number of Swaps : 2374
-Reversed Sorted BubbleSort of 100 lines took 414166ns.
-Number of Swaps : 4581
-Sorted Odd-EvenTranspositionSort of 100 lines took 57833ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 100 lines took 416625ns.
-Number of Swaps : 2238
-Reversed Sorted Odd-EvenTranspositionSort of 100 lines took 380958ns.
-Number of Swaps : 4486
-Sorted MergeSort of 100 lines took 8464208ns.
-Shuffled MergeSort of 100 lines took 120250ns.
-Reversed Sorted MergeSort of 100 lines took 95333ns.
-Sorted QuickSort of 100 lines took 391500ns.
-Shuffled QuickSort of 100 lines took 49459ns.
-Reversed Sorted QuickSort of 100 lines took 99958ns.
-Sorted HeapSort of 100 lines took 245125ns.
-Shuffled HeapSort of 100 lines took 37125ns.
-Reversed Sorted HeapSort of 100 lines took 25209ns.
-Sorted HeapSort of 200 lines took 468916ns.
-Shuffled HeapSort of 200 lines took 73583ns.
-Reversed Sorted HeapSort of 200 lines took 62459ns.
-Sorted QuickSort of 200 lines took 357125ns.
-Shuffled QuickSort of 200 lines took 56541ns.
-Reversed Sorted QuickSort of 200 lines took 72917ns.
-Sorted MergeSort of 200 lines took 8829125ns.
-Shuffled MergeSort of 200 lines took 74042ns.
-Reversed Sorted MergeSort of 200 lines took 50208ns.
-Sorted BubbleSort of 200 lines took 48750ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 200 lines took 1950833ns.
-Number of Swaps : 9086
-Reversed Sorted BubbleSort of 200 lines took 1383833ns.
-Number of Swaps : 18617
-Sorted Odd-EvenTranspositionSort of 200 lines took 44417ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 200 lines took 1584542ns.
-Number of Swaps : 8655
-Reversed Sorted Odd-EvenTranspositionSort of 200 lines took 1444292ns.
-Number of Swaps : 18424
-Sorted Odd-EvenTranspositionSort of 300 lines took 76792ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 300 lines took 2921375ns.
-Number of Swaps : 20283
-Reversed Sorted Odd-EvenTranspositionSort of 300 lines took 1883209ns.
-Number of Swaps : 41889
-Sorted BubbleSort of 300 lines took 76208ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 300 lines took 2982292ns.
-Number of Swaps : 21069
-Reversed Sorted BubbleSort of 300 lines took 1547542ns.
-Number of Swaps : 42177
-Sorted MergeSort of 300 lines took 11058083ns.
-Shuffled MergeSort of 300 lines took 102209ns.
-Reversed Sorted MergeSort of 300 lines took 78834ns.
-Sorted QuickSort of 300 lines took 1111375ns.
-Shuffled QuickSort of 300 lines took 66875ns.
-Reversed Sorted QuickSort of 300 lines took 117250ns.
-Sorted HeapSort of 300 lines took 1087875ns.
-Shuffled HeapSort of 300 lines took 110375ns.
-Reversed Sorted HeapSort of 300 lines took 112625ns.
-Sorted HeapSort of 400 lines took 672542ns.
-Shuffled HeapSort of 400 lines took 148459ns.
-Reversed Sorted HeapSort of 400 lines took 139750ns.
-Sorted QuickSort of 400 lines took 707125ns.
-Shuffled QuickSort of 400 lines took 91125ns.
-Reversed Sorted QuickSort of 400 lines took 166042ns.
-Sorted MergeSort of 400 lines took 11925417ns.
-Shuffled MergeSort of 400 lines took 138500ns.
-Reversed Sorted MergeSort of 400 lines took 134916ns.
-Sorted BubbleSort of 400 lines took 68375ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 400 lines took 4350958ns.
-Number of Swaps : 37212
-Reversed Sorted BubbleSort of 400 lines took 1128583ns.
-Number of Swaps : 75182
-Sorted Odd-EvenTranspositionSort of 400 lines took 23041ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 400 lines took 4641542ns.
-Number of Swaps : 38875
-Reversed Sorted Odd-EvenTranspositionSort of 400 lines took 1548167ns.
-Number of Swaps : 74801
-Sorted Odd-EvenTranspositionSort of 500 lines took 45791ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 500 lines took 5066583ns.
-Number of Swaps : 60809
-Reversed Sorted Odd-EvenTranspositionSort of 500 lines took 1802208ns.
-Number of Swaps : 117183
-Sorted BubbleSort of 500 lines took 144458ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 500 lines took 5289375ns.
-Number of Swaps : 59103
-Reversed Sorted BubbleSort of 500 lines took 1918750ns.
-Number of Swaps : 117659
-Sorted QuickSort of 500 lines took 957834ns.
-Shuffled QuickSort of 500 lines took 139667ns.
-Reversed Sorted QuickSort of 500 lines took 197917ns.
-Sorted MergeSort of 500 lines took 11723041ns.
-Shuffled MergeSort of 500 lines took 167250ns.
-Reversed Sorted MergeSort of 500 lines took 298833ns.
-Sorted HeapSort of 500 lines took 591250ns.
-Shuffled HeapSort of 500 lines took 197167ns.
-Reversed Sorted HeapSort of 500 lines took 156167ns.
-Sorted HeapSort of 600 lines took 742209ns.
-Shuffled HeapSort of 600 lines took 250625ns.
-Reversed Sorted HeapSort of 600 lines took 191792ns.
-Sorted QuickSort of 600 lines took 985166ns.
-Shuffled QuickSort of 600 lines took 181292ns.
-Reversed Sorted QuickSort of 600 lines took 249208ns.
-Sorted MergeSort of 600 lines took 11883291ns.
-Shuffled MergeSort of 600 lines took 210292ns.
-Reversed Sorted MergeSort of 600 lines took 160708ns.
-Sorted BubbleSort of 600 lines took 46208ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 600 lines took 6012666ns.
-Number of Swaps : 83609
-Reversed Sorted BubbleSort of 600 lines took 2526125ns.
-Number of Swaps : 169564
-Sorted Odd-EvenTranspositionSort of 600 lines took 33375ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 600 lines took 6227250ns.
-Number of Swaps : 85204
-Reversed Sorted Odd-EvenTranspositionSort of 600 lines took 2529125ns.
-Number of Swaps : 168993
-Sorted Odd-EvenTranspositionSort of 700 lines took 185583ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 700 lines took 6576750ns.
-Number of Swaps : 117406
-Reversed Sorted Odd-EvenTranspositionSort of 700 lines took 3705542ns.
-Number of Swaps : 230318
-Sorted BubbleSort of 700 lines took 63000ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 700 lines took 6983500ns.
-Number of Swaps : 113437
-Reversed Sorted BubbleSort of 700 lines took 2712500ns.
-Number of Swaps : 230982
-Sorted QuickSort of 700 lines took 1340791ns.
-Shuffled QuickSort of 700 lines took 187792ns.
-Reversed Sorted QuickSort of 700 lines took 242458ns.
-Sorted MergeSort of 700 lines took 12532041ns.
-Shuffled MergeSort of 700 lines took 244500ns.
-Reversed Sorted MergeSort of 700 lines took 188709ns.
-Sorted HeapSort of 700 lines took 1423708ns.
-Shuffled HeapSort of 700 lines took 284916ns.
-Reversed Sorted HeapSort of 700 lines took 235459ns.
-Sorted HeapSort of 800 lines took 1257417ns.
-Shuffled HeapSort of 800 lines took 417625ns.
-Reversed Sorted HeapSort of 800 lines took 264583ns.
-Sorted MergeSort of 800 lines took 13647459ns.
-Shuffled MergeSort of 800 lines took 317083ns.
-Reversed Sorted MergeSort of 800 lines took 219667ns.
-Sorted QuickSort of 800 lines took 2209958ns.
-Shuffled QuickSort of 800 lines took 223334ns.
-Reversed Sorted QuickSort of 800 lines took 304000ns.
-Sorted BubbleSort of 800 lines took 71291ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 800 lines took 8547500ns.
-Number of Swaps : 149126
-Reversed Sorted BubbleSort of 800 lines took 1644542ns.
-Number of Swaps : 301908
-Sorted Odd-EvenTranspositionSort of 800 lines took 150083ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 800 lines took 8368083ns.
-Number of Swaps : 155666
-Reversed Sorted Odd-EvenTranspositionSort of 800 lines took 4373375ns.
-Number of Swaps : 301148
-Sorted Odd-EvenTranspositionSort of 900 lines took 77958ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 900 lines took 8877000ns.
-Number of Swaps : 193541
-Reversed Sorted Odd-EvenTranspositionSort of 900 lines took 3428208ns.
-Number of Swaps : 381429
-Sorted BubbleSort of 900 lines took 85917ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 900 lines took 10028375ns.
-Number of Swaps : 192914
-Reversed Sorted BubbleSort of 900 lines took 1559417ns.
-Number of Swaps : 382285
-Sorted QuickSort of 900 lines took 1523334ns.
-Shuffled QuickSort of 900 lines took 267917ns.
-Reversed Sorted QuickSort of 900 lines took 371625ns.
-Sorted MergeSort of 900 lines took 12422708ns.
-Shuffled MergeSort of 900 lines took 320417ns.
-Reversed Sorted MergeSort of 900 lines took 261583ns.
-Sorted HeapSort of 900 lines took 825167ns.
-Shuffled HeapSort of 900 lines took 409125ns.
-Reversed Sorted HeapSort of 900 lines took 306250ns.
-Sorted HeapSort of 1000 lines took 887750ns.
-Shuffled HeapSort of 1000 lines took 192625ns.
-Reversed Sorted HeapSort of 1000 lines took 161667ns.
-Sorted MergeSort of 1000 lines took 13419584ns.
-Shuffled MergeSort of 1000 lines took 362917ns.
-Reversed Sorted MergeSort of 1000 lines took 302959ns.
-Sorted QuickSort of 1000 lines took 1536416ns.
-Shuffled QuickSort of 1000 lines took 414209ns.
-Reversed Sorted QuickSort of 1000 lines took 470125ns.
-Sorted BubbleSort of 1000 lines took 56084ns.
-Number of Swaps : 0
-Shuffled BubbleSort of 1000 lines took 9747708ns.
-Number of Swaps : 228597
-Reversed Sorted BubbleSort of 1000 lines took 5913917ns.
-Number of Swaps : 472235
-Sorted Odd-EvenTranspositionSort of 1000 lines took 87334ns.
-Number of Swaps : 0
-Shuffled Odd-EvenTranspositionSort of 1000 lines took 11203583ns.
-Number of Swaps : 229780
-Reversed Sorted Odd-EvenTranspositionSort of 1000 lines took 4472500ns.
-Number of Swaps : 471283
+Sorted Odd-EvenTranspositionSort of 100 lines took 26750ns.
+Number of Comparisons: 97
+Shuffled Odd-EvenTranspositionSort of 100 lines took 634042ns.
+Number of Comparisons: 4365
+Reversed Sorted Odd-EvenTranspositionSort of 100 lines took 377167ns.
+Number of Comparisons: 4850
+Sorted Odd-EvenTranspositionSort of 200 lines took 104125ns.
+Number of Comparisons: 197
+Shuffled Odd-EvenTranspositionSort of 200 lines took 1648041ns.
+Number of Comparisons: 18321
+Reversed Sorted Odd-EvenTranspositionSort of 200 lines took 1363000ns.
+Number of Comparisons: 19700
+Sorted Odd-EvenTranspositionSort of 300 lines took 167208ns.
+Number of Comparisons: 297
+Shuffled Odd-EvenTranspositionSort of 300 lines took 2631875ns.
+Number of Comparisons: 43065
+Reversed Sorted Odd-EvenTranspositionSort of 300 lines took 1718833ns.
+Number of Comparisons: 44550
+Sorted Odd-EvenTranspositionSort of 400 lines took 68667ns.
+Number of Comparisons: 397
+Shuffled Odd-EvenTranspositionSort of 400 lines took 4378375ns.
+Number of Comparisons: 73445
+Reversed Sorted Odd-EvenTranspositionSort of 400 lines took 1173666ns.
+Number of Comparisons: 79400
+Sorted Odd-EvenTranspositionSort of 500 lines took 28708ns.
+Number of Comparisons: 497
+Shuffled Odd-EvenTranspositionSort of 500 lines took 4925542ns.
+Number of Comparisons: 112819
+Reversed Sorted Odd-EvenTranspositionSort of 500 lines took 1862083ns.
+Number of Comparisons: 124250
+Sorted Odd-EvenTranspositionSort of 600 lines took 53875ns.
+Number of Comparisons: 597
+Shuffled Odd-EvenTranspositionSort of 600 lines took 5907417ns.
+Number of Comparisons: 168951
+Reversed Sorted Odd-EvenTranspositionSort of 600 lines took 2520458ns.
+Number of Comparisons: 179100
+Sorted Odd-EvenTranspositionSort of 700 lines took 63000ns.
+Number of Comparisons: 697
+Shuffled Odd-EvenTranspositionSort of 700 lines took 6577542ns.
+Number of Comparisons: 216767
+Reversed Sorted Odd-EvenTranspositionSort of 700 lines took 3427666ns.
+Number of Comparisons: 243950
+Sorted Odd-EvenTranspositionSort of 800 lines took 71125ns.
+Number of Comparisons: 797
+Shuffled Odd-EvenTranspositionSort of 800 lines took 8256375ns.
+Number of Comparisons: 298875
+Reversed Sorted Odd-EvenTranspositionSort of 800 lines took 4114375ns.
+Number of Comparisons: 318800
+Sorted Odd-EvenTranspositionSort of 900 lines took 78958ns.
+Number of Comparisons: 897
+Shuffled Odd-EvenTranspositionSort of 900 lines took 10265584ns.
+Number of Comparisons: 383916
+Reversed Sorted Odd-EvenTranspositionSort of 900 lines took 4753000ns.
+Number of Comparisons: 403650
+Sorted Odd-EvenTranspositionSort of 1000 lines took 58292ns.
+Number of Comparisons: 997
+Shuffled Odd-EvenTranspositionSort of 1000 lines took 9927125ns.
+Number of Comparisons: 468590
+Reversed Sorted Odd-EvenTranspositionSort of 1000 lines took 3051417ns.
+Number of Comparisons: 498500
+Sorted BubbleSort of 100 lines took 26208ns.
+Number of Comparisons: 1
+Shuffled BubbleSort of 100 lines took 548292ns.
+Number of Comparisons: 73
+Reversed Sorted BubbleSort of 100 lines took 374958ns.
+Number of Comparisons: 96
+Sorted BubbleSort of 200 lines took 45500ns.
+Number of Comparisons: 1
+Shuffled BubbleSort of 200 lines took 1454083ns.
+Number of Comparisons: 182
+Reversed Sorted BubbleSort of 200 lines took 1502334ns.
+Number of Comparisons: 194
+Sorted BubbleSort of 300 lines took 29167ns.
+Number of Comparisons: 1
+Shuffled BubbleSort of 300 lines took 3428125ns.
+Number of Comparisons: 264
+Reversed Sorted BubbleSort of 300 lines took 1877292ns.
+Number of Comparisons: 289

@@ -157,8 +157,8 @@ public class Proj3 {
 
         for(int i = 0; i < size; i++) {
             swapped = false;
-            comparison++;
             for(int j = 0; j < size - 1 - i; j++) {
+                comparison++; //count the comparisons
                 if(a.get(j).compareTo(a.get(j+1)) > 0) {
                     swap(a, j, j+1);
                     swapped = true;
